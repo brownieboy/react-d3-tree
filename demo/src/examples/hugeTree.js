@@ -1,4 +1,4 @@
-module.exports = [
+const hugeTree = [
   {
     type: 'directory',
     name: '.',
@@ -6637,3 +6637,5 @@ module.exports = [
     files: 711,
   },
 ];
+
+export default hugeTree;

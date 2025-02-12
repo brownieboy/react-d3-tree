@@ -1,4 +1,4 @@
-module.exports = [{
+const reactRepoTree = [{
     "type": "directory",
     "name": ".",
     "children": [{
@@ -3575,4 +3575,6 @@ module.exports = [{
     "directories": 151,
     "files": 711
   }
-]
+];
+
+export default reactRepoTree;
